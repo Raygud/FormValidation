@@ -1,0 +1,7 @@
+form > input{
+    display: block;
+}
+
+form > input:focus{
+    outline: none;
+}
